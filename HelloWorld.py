@@ -6,7 +6,7 @@ def main():
     
     # Create a window
     window = QWidget()
-    window.setWindowTitle("Hello PyQt")
+    window.setWindowTitle("Hello PyQt !")
     window.setGeometry(100, 100, 300, 100)  # x, y, width, height
     
     # Add a label to the window
