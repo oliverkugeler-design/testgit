@@ -10,7 +10,7 @@ def main():
     window.setGeometry(100, 100, 300, 100)  # x, y, width, height
     
     # Add a label to the window
-    label = QLabel("Hallo Welt", parent=window)
+    label = QLabel("Hallo Welt 123", parent=window)
     label.move(100, 40)
     
     # Show window
